@@ -12,7 +12,7 @@ WIN_COMBINATIONS = [
 ]
 
 #Initialize method should set board 
-def initialize
+def initialize(board)
     @board = [" ", " ", " ", " ", " ", " ", " ", " ", " " ]
 end
 
