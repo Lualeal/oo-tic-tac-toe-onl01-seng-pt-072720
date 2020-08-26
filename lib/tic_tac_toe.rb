@@ -101,9 +101,9 @@ end
 def over?
   if won?|| draw?||full?
   return true
-else
+  else
   return false
-end
+  end
 end
 
 def winner
